@@ -18,7 +18,6 @@ continue to update…
 
 持续更新中。。。
 
+<img src="https://gitee.com/lie_py/compose-animation-kit-preview/raw/main/SamplePreview/Sample1.gif">
 
-https://gitee.com/lie_py/compose-animation-kit-preview/raw/main/SamplePreview/Sample1.gif
-
-https://raw.githubusercontent.com/LiePy/ComposeAnimationKitPreview/main/SamplePreview/Sample1.gif
+<img src="https://raw.githubusercontent.com/LiePy/ComposeAnimationKitPreview/main/SamplePreview/Sample1.gif">
